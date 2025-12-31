@@ -23,3 +23,10 @@ node_modules/
 # 构建输出
 dist/
 build/
+
+# Playwright MCP 截图目录（测试用）
+.playwright-mcp/
+
+# 规范工作流模板
+.spec-workflow/
+.spec-workflow-client/
